@@ -1,0 +1,291 @@
+{
+  "initialCountdownSeconds": 7892,
+  "vouchers": [
+    {
+      "id": "v1",
+      "discountText": "Giảm 30%",
+      "conditionText": "Đơn tối thiểu 50k - Giảm tối đa 80k",
+      "expiry": "31.10.2025"
+    },
+    {
+      "id": "v2",
+      "discountText": "Giảm 25%",
+      "conditionText": "Đơn tối thiểu 80k - Giảm tối đa 100k",
+      "expiry": "15.11.2025"
+    },
+    {
+      "id": "v3",
+      "discountText": "Giảm 20%",
+      "conditionText": "Đơn tối thiểu 100k - Giảm tối đa 120k",
+      "expiry": "30.11.2025"
+    },
+    {
+      "id": "v4",
+      "discountText": "Giảm 35%",
+      "conditionText": "Đơn tối thiểu 150k - Giảm tối đa 150k",
+      "expiry": "15.12.2025"
+    },
+    {
+      "id": "v5",
+      "discountText": "Giảm 15%",
+      "conditionText": "Đơn tối thiểu 60k - Giảm tối đa 70k",
+      "expiry": "31.12.2025"
+    }
+  ],
+  "categories": [
+    {
+      "id": "banh-healthy",
+      "title": "Bánh Healthy",
+      "imageSrc": "/img/img-loai-san-pham1.png"
+    },
+    {
+      "id": "bun-nui-pho",
+      "title": "Bún - Nui - Phở - Bánh Canh",
+      "imageSrc": "/img/img-loai-san-pham2.png"
+    },
+    {
+      "id": "giam-tao",
+      "title": "Giấm Táo",
+      "imageSrc": "/img/img-loai-san-pham3.png"
+    },
+    {
+      "id": "biscotti",
+      "title": "Biscotti",
+      "imageSrc": "/img/img-loai-san-pham3.png"
+    },
+    {
+      "id": "gao",
+      "title": "Gạo",
+      "imageSrc": "/img/img-loai-san-pham2.png"
+    },
+    {
+      "id": "hat-dinh-duong",
+      "title": "Hạt dinh dưỡng",
+      "imageSrc": "/img/img-loai-san-pham1.png"
+    }
+  ],
+  "flashSaleProducts": [
+    {
+      "id": "flash-1",
+      "slug": "/product/ngu-coc-calbee-nhat",
+      "title": "Ngũ cốc Calbee Nhật Eatclean mix sữa hạt",
+      "image": "/img/flash-sale2.png",
+      "price": 108000,
+      "originalPrice": 200000,
+      "discountPercent": 20,
+      "badgeText": "ĐANG BÁN CHẠY",
+      "categoryId": "banh-healthy"
+    },
+    {
+      "id": "flash-2",
+      "slug": "/product/hat-dieu-rang-muoi",
+      "title": "Hạt điều rang muối loại đặc biệt 500g",
+      "image": "/img/flash-sale2.png",
+      "price": 149000,
+      "originalPrice": 189000,
+      "discountPercent": 21,
+      "badgeText": "BÁN CHẠY",
+      "categoryId": "hat-dinh-duong"
+    },
+    {
+      "id": "flash-3",
+      "slug": "/product/yen-mach-canadian",
+      "title": "Yến mạch cán dẹt Canadian Oats 1kg",
+      "image": "/img/flash-sale2.png",
+      "price": 89000,
+      "originalPrice": 120000,
+      "discountPercent": 26,
+      "badgeText": "GIÁ TỐT",
+      "categoryId": "gao"
+    },
+    {
+      "id": "flash-4",
+      "slug": "/product/granola-trai-cay",
+      "title": "Granola trái cây sấy mix hạt dinh dưỡng 400g",
+      "image": "/img/flash-sale2.png",
+      "price": 135000,
+      "originalPrice": 165000,
+      "discountPercent": 18,
+      "badgeText": "HOT",
+      "categoryId": "hat-dinh-duong"
+    },
+    {
+      "id": "flash-5",
+      "slug": "/product/mat-ong-rung",
+      "title": "Mật ong rừng nguyên chất 500ml",
+      "image": "/img/flash-sale2.png",
+      "price": 179000,
+      "originalPrice": 229000,
+      "discountPercent": 22,
+      "badgeText": "HOT",
+      "categoryId": "giam-tao"
+    },
+    {
+      "id": "flash-6",
+      "slug": "/product/tra-gung-mat-ong",
+      "title": "Trà gừng mật ong túi lọc (20 gói)",
+      "image": "/img/flash-sale2.png",
+      "price": 69000,
+      "originalPrice": 99000,
+      "discountPercent": 30,
+      "badgeText": "ĐANG BÁN CHẠY",
+      "categoryId": "bun-nui-pho"
+    },
+    {
+      "id": "flash-7",
+      "slug": "/product/hat-chia-uc",
+      "title": "Hạt chia Úc 500g",
+      "image": "/img/flash-sale2.png",
+      "price": 99000,
+      "originalPrice": 125000,
+      "discountPercent": 21,
+      "badgeText": "HOT",
+      "categoryId": "hat-dinh-duong"
+    },
+    {
+      "id": "flash-8",
+      "slug": "/product/sua-hat-oc-cho",
+      "title": "Sữa hạt óc chó không đường 1L",
+      "image": "/img/flash-sale2.png",
+      "price": 78000,
+      "originalPrice": 95000,
+      "discountPercent": 18,
+      "badgeText": "GIÁ TỐT",
+      "categoryId": "banh-healthy"
+    }
+  ],
+  "catalogProducts": [
+    {
+      "id": "c-1",
+      "slug": "/product/ngu-coc-calbee-nhat",
+      "title": "Ngũ cốc Calbee Nhật Eatclean mix sữa hạt",
+      "image": "/img/flash-sale2.png",
+      "price": 108000,
+      "originalPrice": 200000,
+      "discountPercent": 20,
+      "badgeText": "ĐANG BÁN CHẠY",
+      "categoryId": "banh-healthy"
+    },
+    {
+      "id": "c-2",
+      "slug": "/product/hat-dieu-rang-muoi",
+      "title": "Hạt điều rang muối loại đặc biệt 500g",
+      "image": "/img/flash-sale2.png",
+      "price": 149000,
+      "originalPrice": 189000,
+      "discountPercent": 21,
+      "badgeText": "BÁN CHẠY",
+      "categoryId": "hat-dinh-duong"
+    },
+    {
+      "id": "c-3",
+      "slug": "/product/yen-mach-canadian",
+      "title": "Yến mạch cán dẹt Canadian Oats 1kg",
+      "image": "/img/flash-sale2.png",
+      "price": 89000,
+      "originalPrice": 120000,
+      "discountPercent": 26,
+      "badgeText": "GIÁ TỐT",
+      "categoryId": "gao"
+    },
+    {
+      "id": "c-4",
+      "slug": "/product/granola-trai-cay",
+      "title": "Granola trái cây sấy mix hạt dinh dưỡng 400g",
+      "image": "/img/flash-sale2.png",
+      "price": 135000,
+      "originalPrice": 165000,
+      "discountPercent": 18,
+      "badgeText": "HOT",
+      "categoryId": "hat-dinh-duong"
+    },
+    {
+      "id": "c-5",
+      "slug": "/product/mat-ong-rung",
+      "title": "Mật ong rừng nguyên chất 500ml",
+      "image": "/img/flash-sale2.png",
+      "price": 179000,
+      "originalPrice": 229000,
+      "discountPercent": 22,
+      "badgeText": "HOT",
+      "categoryId": "giam-tao"
+    },
+    {
+      "id": "c-6",
+      "slug": "/product/tra-gung-mat-ong",
+      "title": "Trà gừng mật ong túi lọc (20 gói)",
+      "image": "/img/flash-sale2.png",
+      "price": 69000,
+      "originalPrice": 99000,
+      "discountPercent": 30,
+      "badgeText": "ĐANG BÁN CHẠY",
+      "categoryId": "bun-nui-pho"
+    },
+    {
+      "id": "c-7",
+      "slug": "/product/hat-chia-uc",
+      "title": "Hạt chia Úc 500g",
+      "image": "/img/flash-sale2.png",
+      "price": 99000,
+      "originalPrice": 125000,
+      "discountPercent": 21,
+      "badgeText": "HOT",
+      "categoryId": "hat-dinh-duong"
+    },
+    {
+      "id": "c-8",
+      "slug": "/product/sua-hat-oc-cho",
+      "title": "Sữa hạt óc chó không đường 1L",
+      "image": "/img/flash-sale2.png",
+      "price": 78000,
+      "originalPrice": 95000,
+      "discountPercent": 18,
+      "badgeText": "GIÁ TỐT",
+      "categoryId": "banh-healthy"
+    },
+    {
+      "id": "c-9",
+      "slug": "/product/bo-dau-phong",
+      "title": "Bơ đậu phộng nguyên chất 350g",
+      "image": "/img/flash-sale2.png",
+      "price": 85000,
+      "originalPrice": 105000,
+      "discountPercent": 19,
+      "badgeText": "HOT",
+      "categoryId": "banh-healthy"
+    },
+    {
+      "id": "c-10",
+      "slug": "/product/gao-lut-huu-co",
+      "title": "Gạo lứt hữu cơ 2kg",
+      "image": "/img/flash-sale2.png",
+      "price": 158000,
+      "originalPrice": 198000,
+      "discountPercent": 20,
+      "badgeText": "HÀNG MỚI",
+      "categoryId": "gao"
+    },
+    {
+      "id": "c-11",
+      "slug": "/product/banh-gao-lut",
+      "title": "Bánh gạo lứt vị rong biển",
+      "image": "/img/flash-sale1.png",
+      "price": 59000,
+      "originalPrice": 75000,
+      "discountPercent": 21,
+      "badgeText": "HOT",
+      "categoryId": "banh-healthy"
+    },
+    {
+      "id": "c-12",
+      "slug": "/product/pho-gao-lut",
+      "title": "Phở gạo lứt hữu cơ",
+      "image": "/img/flash-sale1.png",
+      "price": 72000,
+      "originalPrice": 89000,
+      "discountPercent": 19,
+      "badgeText": "GIÁ TỐT",
+      "categoryId": "bun-nui-pho"
+    }
+  ]
+}

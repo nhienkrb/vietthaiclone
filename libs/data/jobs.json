@@ -1,0 +1,129 @@
+{
+  "jobs": [
+    {
+      "slug": "thuc-tap-sinh-content",
+      "title": "Thực tập sinh content",
+      "location": "Hồ Chí Minh",
+      "experience": "Không yêu cầu",
+      "quantity": "01",
+      "deadline": "31.10.2025",
+      "salary": "$1000 - $2000",
+      "jobType": "Fulltime",
+      "label": "/img/lable-hot.png",
+      "labelAlt": "Hot",
+      "responsibilities": [
+        {
+          "heading": "Sáng tạo Nội dung Đa kênh:",
+          "items": [
+            "Lên ý tưởng và viết nội dung (caption, bài viết) cho các kênh truyền thông xã hội (Facebook, Instagram, TikTok, Zalo...).",
+            "Viết bài PR, bài Blog/Website theo chủ đề, SEO, cập nhật các xu hướng nổi bật."
+          ]
+        },
+        {
+          "heading": "Hỗ trợ Sản xuất Nội dung Đa phương tiện:",
+          "items": [
+            "Hỗ trợ lên kịch bản (storyboard) ngắn cho video, hình ảnh, infographic...",
+            "Sắp xếp, biên tập và chuẩn bị nội dung hình ảnh, video trước khi đăng tải."
+          ]
+        },
+        {
+          "heading": "Nghiên cứu & Phân tích:",
+          "items": [
+            "Nghiên cứu, thu thập thông tin về thị trường, đối thủ và hành vi khách hàng để tìm kiếm ý tưởng nội dung mới.",
+            "Hỗ trợ theo dõi, đo lường hiệu quả của các nội dung đã đăng tải."
+          ]
+        },
+        {
+          "heading": "Hỗ trợ Dự án Marketing:",
+          "items": [
+            "Tham gia lên ý tưởng và hỗ trợ triển khai các chiến dịch, sự kiện, workshop của công ty."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "nhan-vien-content-marketing",
+      "title": "Nhân viên content marketing",
+      "location": "Hồ Chí Minh",
+      "experience": "01 năm",
+      "quantity": "02",
+      "deadline": "15.11.2025",
+      "salary": "$1200 - $1800",
+      "jobType": "Fulltime",
+      "label": "/img/lable-hot.png",
+      "labelAlt": "Hot",
+      "responsibilities": [
+        {
+          "heading": "Lập kế hoạch nội dung:",
+          "items": [
+            "Xây dựng content plan theo tuần/tháng cho các kênh digital.",
+            "Phối hợp với team thiết kế để thống nhất định hướng nội dung và hình ảnh."
+          ]
+        },
+        {
+          "heading": "Triển khai nội dung:",
+          "items": [
+            "Viết và tối ưu nội dung bài đăng, landing page, email marketing.",
+            "Theo dõi hiệu quả nội dung và đề xuất cải tiến."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "chuyen-vien-thiet-ke",
+      "title": "Chuyên viên thiết kế",
+      "location": "Hồ Chí Minh",
+      "experience": "01 năm",
+      "quantity": "01",
+      "deadline": "20.11.2025",
+      "salary": "$900 - $1500",
+      "jobType": "Fulltime",
+      "label": "/img/label-new.png",
+      "labelAlt": "New",
+      "responsibilities": [
+        {
+          "heading": "Thiết kế ấn phẩm truyền thông:",
+          "items": [
+            "Thiết kế banner, poster, social post cho các chiến dịch truyền thông.",
+            "Đảm bảo bộ nhận diện thương hiệu được áp dụng nhất quán."
+          ]
+        },
+        {
+          "heading": "Phối hợp liên phòng ban:",
+          "items": [
+            "Làm việc với team content và marketing để hoàn thiện key visual.",
+            "Chỉnh sửa và xuất file đúng tiêu chuẩn từng nền tảng."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "thuc-tap-sinh-kinh-doanh",
+      "title": "Thực tập sinh kinh doanh",
+      "location": "Hồ Chí Minh",
+      "experience": "Không yêu cầu",
+      "quantity": "03",
+      "deadline": "30.11.2025",
+      "salary": "$700 - $1200",
+      "jobType": "Fulltime",
+      "label": "/img/label-new.png",
+      "labelAlt": "New",
+      "responsibilities": [
+        {
+          "heading": "Hỗ trợ bán hàng:",
+          "items": [
+            "Tư vấn thông tin sản phẩm theo data có sẵn.",
+            "Chăm sóc khách hàng cũ và hỗ trợ xử lý phản hồi cơ bản."
+          ]
+        },
+        {
+          "heading": "Báo cáo và cập nhật dữ liệu:",
+          "items": [
+            "Cập nhật tình trạng khách hàng lên hệ thống.",
+            "Hỗ trợ tổng hợp báo cáo doanh số theo tuần."
+          ]
+        }
+      ]
+    }
+  ]
+}

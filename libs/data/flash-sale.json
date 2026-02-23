@@ -1,0 +1,65 @@
+{
+  "countdownSeconds": 7892,
+  "products": [
+    {
+      "id": "fs-1",
+      "slug": "/product/ngu-coc-calbee-nhat",
+      "title": "Ngũ cốc Calbee Nhật ăn Eatclean mix sữa hạt",
+      "image": "/img/flash-sale2.png",
+      "price": 108000,
+      "originalPrice": 200000,
+      "discountPercent": 20,
+      "badgeText": "ĐANG BÁN CHẠY"
+    },
+    {
+      "id": "fs-2",
+      "slug": "/product/hat-dieu-rang-muoi",
+      "title": "Hạt điều rang muối loại đặc biệt 500g",
+      "image": "/img/flash-sale2.png",
+      "price": 149000,
+      "originalPrice": 189000,
+      "discountPercent": 21,
+      "badgeText": "BÁN CHẠY"
+    },
+    {
+      "id": "fs-3",
+      "slug": "/product/yen-mach-canadian",
+      "title": "Yến mạch cán dẹt Canadian Oats 1kg",
+      "image": "/img/flash-sale2.png",
+      "price": 89000,
+      "originalPrice": 120000,
+      "discountPercent": 26,
+      "badgeText": "GIÁ TỐT"
+    },
+    {
+      "id": "fs-4",
+      "slug": "/product/granola-trai-cay",
+      "title": "Granola trái cây sấy mix hạt dinh dưỡng 400g",
+      "image": "/img/flash-sale2.png",
+      "price": 135000,
+      "originalPrice": 165000,
+      "discountPercent": 18,
+      "badgeText": "HOT"
+    },
+    {
+      "id": "fs-5",
+      "slug": "/product/mat-ong-rung",
+      "title": "Mật ong rừng nguyên chất 500ml",
+      "image": "/img/flash-sale2.png",
+      "price": 179000,
+      "originalPrice": 229000,
+      "discountPercent": 22,
+      "badgeText": "HOT"
+    },
+    {
+      "id": "fs-6",
+      "slug": "/product/tra-gung-mat-ong",
+      "title": "Trà gừng mật ong túi lọc (20 gói)",
+      "image": "/img/flash-sale2.png",
+      "price": 69000,
+      "originalPrice": 99000,
+      "discountPercent": 30,
+      "badgeText": "ĐANG BÁN CHẠY"
+    }
+  ]
+}

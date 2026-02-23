@@ -1,0 +1,97 @@
+[
+  {
+    "id": "p1",
+    "slug": "ngu-coc-calbee-nhat",
+    "title": "Ngũ cốc Calbee Nhật Eatclean mix sữa hạt",
+    "image": "/img/flash-sale2.png",
+    "price": 108000,
+    "originalPrice": 200000,
+    "discountPercent": 20,
+    "badgeText": "ĐANG BÁN CHẠY"
+  },
+  {
+    "id": "p2",
+    "slug": "hat-dieu-rang-muoi",
+    "title": "Hạt điều rang muối loại đặc biệt 500g",
+    "image": "/img/flash-sale2.png",
+    "price": 149000,
+    "originalPrice": 189000,
+    "discountPercent": 21,
+    "badgeText": "BÁN CHẠY"
+  },
+  {
+    "id": "p3",
+    "slug": "yen-mach-canadian",
+    "title": "Yến mạch cán dẹt Canadian Oats 1kg",
+    "image": "/img/flash-sale2.png",
+    "price": 89000,
+    "originalPrice": 120000,
+    "discountPercent": 26,
+    "badgeText": "GIÁ TỐT"
+  },
+  {
+    "id": "p4",
+    "slug": "granola-trai-cay",
+    "title": "Granola trái cây sấy mix hạt dinh dưỡng 400g",
+    "image": "/img/flash-sale2.png",
+    "price": 135000,
+    "originalPrice": 165000,
+    "discountPercent": 18
+  },
+  {
+    "id": "p5",
+    "slug": "mat-ong-rung",
+    "title": "Mật ong rừng nguyên chất 500ml",
+    "image": "/img/flash-sale2.png",
+    "price": 179000,
+    "originalPrice": 229000,
+    "discountPercent": 22,
+    "badgeText": "HOT"
+  },
+  {
+    "id": "p6",
+    "slug": "tra-gung-mat-ong",
+    "title": "Trà gừng mật ong túi lọc (20 gói)",
+    "image": "/img/flash-sale2.png",
+    "price": 69000,
+    "originalPrice": 99000,
+    "discountPercent": 30
+  },
+  {
+    "id": "p7",
+    "slug": "hat-chia-uc",
+    "title": "Hạt chia Úc 500g",
+    "image": "/img/flash-sale2.png",
+    "price": 99000,
+    "originalPrice": 125000,
+    "discountPercent": 21
+  },
+  {
+    "id": "p8",
+    "slug": "sua-hat-oc-cho",
+    "title": "Sữa hạt óc chó không đường 1L",
+    "image": "/img/flash-sale2.png",
+    "price": 78000,
+    "originalPrice": 95000,
+    "discountPercent": 18
+  },
+  {
+    "id": "p9",
+    "slug": "bo-dau-phong",
+    "title": "Bơ đậu phộng nguyên chất 350g",
+    "image": "/img/flash-sale2.png",
+    "price": 85000,
+    "originalPrice": 105000,
+    "discountPercent": 19
+  },
+  {
+    "id": "p10",
+    "slug": "gao-lut-huu-co",
+    "title": "Gạo lứt hữu cơ 2kg",
+    "image": "/img/flash-sale2.png",
+    "price": 158000,
+    "originalPrice": 198000,
+    "discountPercent": 20,
+    "badgeText": "HÀNG MỚI"
+  }
+]

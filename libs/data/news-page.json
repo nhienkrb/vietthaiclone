@@ -1,0 +1,100 @@
+{
+  "featured": {
+    "title": "3 Tips cực đơn giản giúp bạn thăng hạng sắc vóc",
+    "excerpt": "Lorem ipsum is simply dummy text of the printing and typesetting industry.",
+    "image": "/img/tin-tuc-noibat.png",
+    "href": "/tin-tuc/3-tips-cuc-don-gian"
+  },
+  "featuredSideItems": [
+    {
+      "title": "🥛 Oatside & những màn kết hợp cực dịu kha 😍",
+      "excerpt": "Lorem ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "/img/tin-tuc-noibat.png",
+      "href": "/tin-tuc/oatside-ket-hop-cuc-diu"
+    },
+    {
+      "title": "⁉️ Valentine tặng quà Việt Thái Organic iết nói gì???",
+      "excerpt": "Lorem ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "/img/tin-tuc-noibat.png",
+      "href": "/tin-tuc/valentine-tang-qua"
+    },
+    {
+      "title": "🥛 Oatside & những màn kết hợp cực dịu kha 😍",
+      "excerpt": "Lorem ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "/img/tin-tuc-noibat.png",
+      "href": "/tin-tuc/oatside-ket-hop-cuc-diu"
+    },
+    {
+      "title": "⁉️ Valentine tặng quà Việt Thái Organic iết nói gì???",
+      "excerpt": "Lorem ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "/img/tin-tuc-noibat.png",
+      "href": "/tin-tuc/valentine-tang-qua"
+    }
+  ],
+  "tipFilters": [
+    {
+      "title": "Video Nổi Bật",
+      "active": true,
+      "image": "/img/tin-tuc-noibat.png",
+      "href": "/tin-tuc?tab=video"
+    },
+    {
+      "title": "Sức Khỏe Dinh Dưỡng",
+      "active": false,
+      "image": "/img/tin-tuc-noibat.png",
+      "href": "/tin-tuc?tab=dinh-duong"
+    },
+    {
+      "title": "Ăn Uống Tập Luyện",
+      "active": false,
+      "image": "/img/tin-tuc-noibat.png",
+      "href": "/tin-tuc?tab=an-uong"
+    }
+  ],
+  "tipCards": [
+    {
+      "id": "tip-1",
+      "title": "Thực đơn đốt cháy calo cùng Việt Thái Organic",
+      "image": "/img/tin-tuc-noibat.png",
+      "href": "/tin-tuc/thuc-don-dot-chay-calo"
+    },
+    {
+      "id": "tip-2",
+      "title": "Thực đơn đốt cháy calo cùng Việt Thái Organic",
+      "image": "/img/tin-tuc-noibat.png",
+      "href": "/tin-tuc/thuc-don-dot-chay-calo"
+    },
+    {
+      "id": "tip-3",
+      "title": "Thực đơn đốt cháy calo cùng Việt Thái Organic",
+      "image": "/img/tin-tuc-noibat.png",
+      "href": "/tin-tuc/thuc-don-dot-chay-calo"
+    },
+    {
+      "id": "tip-4",
+      "title": "Thực đơn đốt cháy calo cùng Việt Thái Organic",
+      "image": "/img/tin-tuc-noibat.png",
+      "href": "/tin-tuc/thuc-don-dot-chay-calo"
+    }
+  ],
+  "bottomCards": [
+    {
+      "title": "🥛 Oatside & những màn kết hợp cực dịu kha 😍",
+      "excerpt": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "/img/tin-tuc-1.png",
+      "href": "/tin-tuc/oatside-ket-hop-cuc-diu"
+    },
+    {
+      "title": "⁉️ Valentine tặng quà Việt Thái Organic iết nói gì???",
+      "excerpt": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "/img/tin-tuc-1.png",
+      "href": "/tin-tuc/valentine-tang-qua"
+    },
+    {
+      "title": "🥛 Oatside & những màn kết hợp cực dịu kha 😍",
+      "excerpt": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "/img/tin-tuc-1.png",
+      "href": "/tin-tuc/oatside-ket-hop-cuc-diu"
+    }
+  ]
+}
